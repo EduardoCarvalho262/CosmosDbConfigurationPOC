@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj": {}
+    "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj": {}
   },
   "projects": {
-    "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj": {
+    "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj",
+        "projectUniqueName": "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj",
         "projectName": "CosmosDbPOC.Core",
-        "projectPath": "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj",
-        "packagesPath": "C:\\Users\\re041619\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\obj\\",
+        "projectPath": "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj",
+        "packagesPath": "C:\\Users\\alden\\.nuget\\packages\\",
+        "outputPath": "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\re041619\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alden\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

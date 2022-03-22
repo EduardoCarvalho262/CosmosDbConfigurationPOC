@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sSFj/fc4BAHW7yRT0uCOuRzgk/Q4i0p7js++to6Po5Ny2YsrtA5y81ME1vHk/8KyIWemQFLSB3OwEco//GpH1A==",
+  "dgSpecHash": "kxeYyHSAaAVzxx43+mqLymr6OpExTQ8+AHVtu4uGcIZ7ESzMOGtdVFTl5bdV8DpZcXlyDcGFpC9vshUyV05+eg==",
   "success": true,
-  "projectFilePath": "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj",
+  "projectFilePath": "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

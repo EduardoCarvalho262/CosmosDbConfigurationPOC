@@ -6264,19 +6264,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\re041619\\.nuget\\packages\\": {}
+    "C:\\Users\\alden\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPocInfra\\CosmosDbPocInfra.csproj",
+      "projectUniqueName": "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPocInfra\\CosmosDbPocInfra.csproj",
       "projectName": "CosmosDbPocInfra",
-      "projectPath": "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPocInfra\\CosmosDbPocInfra.csproj",
-      "packagesPath": "C:\\Users\\re041619\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPocInfra\\obj\\",
+      "projectPath": "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPocInfra\\CosmosDbPocInfra.csproj",
+      "packagesPath": "C:\\Users\\alden\\.nuget\\packages\\",
+      "outputPath": "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPocInfra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\re041619\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alden\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6290,11 +6290,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj": {
-              "projectPath": "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj"
+            "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj": {
+              "projectPath": "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj"
             },
-            "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC\\CosmosDbPOC.csproj": {
-              "projectPath": "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC\\CosmosDbPOC.csproj"
+            "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC\\CosmosDbPOC.csproj": {
+              "projectPath": "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC\\CosmosDbPOC.csproj"
             }
           }
         }

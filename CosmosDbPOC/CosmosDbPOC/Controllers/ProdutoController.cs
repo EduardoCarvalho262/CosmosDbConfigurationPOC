@@ -4,10 +4,10 @@ namespace CosmosDbPOC.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class PessoaController : Controller
+    public class ProdutoController : Controller
     {
 
-        public PessoaController()
+        public ProdutoController()
         {
 
         }

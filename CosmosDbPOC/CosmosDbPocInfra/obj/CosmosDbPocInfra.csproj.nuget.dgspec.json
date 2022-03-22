@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPocInfra\\CosmosDbPocInfra.csproj": {}
+    "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPocInfra\\CosmosDbPocInfra.csproj": {}
   },
   "projects": {
-    "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj": {
+    "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj",
+        "projectUniqueName": "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj",
         "projectName": "CosmosDbPOC.Core",
-        "projectPath": "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj",
-        "packagesPath": "C:\\Users\\re041619\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\obj\\",
+        "projectPath": "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj",
+        "packagesPath": "C:\\Users\\alden\\.nuget\\packages\\",
+        "outputPath": "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\re041619\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alden\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,17 +58,17 @@
         }
       }
     },
-    "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPocInfra\\CosmosDbPocInfra.csproj": {
+    "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPocInfra\\CosmosDbPocInfra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPocInfra\\CosmosDbPocInfra.csproj",
+        "projectUniqueName": "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPocInfra\\CosmosDbPocInfra.csproj",
         "projectName": "CosmosDbPocInfra",
-        "projectPath": "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPocInfra\\CosmosDbPocInfra.csproj",
-        "packagesPath": "C:\\Users\\re041619\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPocInfra\\obj\\",
+        "projectPath": "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPocInfra\\CosmosDbPocInfra.csproj",
+        "packagesPath": "C:\\Users\\alden\\.nuget\\packages\\",
+        "outputPath": "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPocInfra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\re041619\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alden\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,11 +82,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj": {
-                "projectPath": "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj"
+              "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj": {
+                "projectPath": "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj"
               },
-              "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC\\CosmosDbPOC.csproj": {
-                "projectPath": "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC\\CosmosDbPOC.csproj"
+              "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC\\CosmosDbPOC.csproj": {
+                "projectPath": "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC\\CosmosDbPOC.csproj"
               }
             }
           }
@@ -125,17 +125,17 @@
         }
       }
     },
-    "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC\\CosmosDbPOC.csproj": {
+    "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC\\CosmosDbPOC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC\\CosmosDbPOC.csproj",
+        "projectUniqueName": "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC\\CosmosDbPOC.csproj",
         "projectName": "CosmosDbPOC",
-        "projectPath": "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC\\CosmosDbPOC.csproj",
-        "packagesPath": "C:\\Users\\re041619\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC\\obj\\",
+        "projectPath": "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC\\CosmosDbPOC.csproj",
+        "packagesPath": "C:\\Users\\alden\\.nuget\\packages\\",
+        "outputPath": "D:\\dev\\.NET\\EduardoCarvalho262\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\re041619\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alden\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
