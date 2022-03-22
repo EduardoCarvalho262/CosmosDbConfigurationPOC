@@ -1,0 +1,12 @@
+C:\dev\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\bin\Debug\net6.0\CosmosDbPOC.Core.deps.json
+C:\dev\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\bin\Debug\net6.0\CosmosDbPOC.Core.dll
+C:\dev\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\bin\Debug\net6.0\CosmosDbPOC.Core.pdb
+C:\dev\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\obj\Debug\net6.0\CosmosDbPOC.Core.csproj.AssemblyReference.cache
+C:\dev\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\obj\Debug\net6.0\CosmosDbPOC.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\obj\Debug\net6.0\CosmosDbPOC.Core.AssemblyInfoInputs.cache
+C:\dev\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\obj\Debug\net6.0\CosmosDbPOC.Core.AssemblyInfo.cs
+C:\dev\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\obj\Debug\net6.0\CosmosDbPOC.Core.csproj.CoreCompileInputs.cache
+C:\dev\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\obj\Debug\net6.0\CosmosDbPOC.Core.dll
+C:\dev\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\obj\Debug\net6.0\refint\CosmosDbPOC.Core.dll
+C:\dev\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\obj\Debug\net6.0\CosmosDbPOC.Core.pdb
+C:\dev\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\obj\Debug\net6.0\ref\CosmosDbPOC.Core.dll

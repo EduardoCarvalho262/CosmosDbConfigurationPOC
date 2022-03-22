@@ -1,0 +1,5 @@
+C:\dev\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPocInfra\obj\Debug\net6.0\CosmosDbPocInfra.csproj.AssemblyReference.cache
+C:\dev\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPocInfra\obj\Debug\net6.0\CosmosDbPocInfra.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPocInfra\obj\Debug\net6.0\CosmosDbPocInfra.AssemblyInfoInputs.cache
+C:\dev\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPocInfra\obj\Debug\net6.0\CosmosDbPocInfra.AssemblyInfo.cs
+C:\dev\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPocInfra\obj\Debug\net6.0\CosmosDbPocInfra.csproj.CoreCompileInputs.cache

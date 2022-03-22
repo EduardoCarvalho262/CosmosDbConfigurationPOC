@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ikb7UpixjFtnPFl9U3r3+f647K/jg4puwwVj/+z8yqE=",
+  "Source": "CosmosDbPOC",
+  "BasePath": "_content/CosmosDbPOC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

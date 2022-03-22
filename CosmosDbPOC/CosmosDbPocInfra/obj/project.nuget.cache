@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "c5aUsUQPRPZPoqC5wXhuXk5GAXgaw+l1d23naHx1WC9VWb7xS094qF499uAj7o08h45NEnP6oCArdaRYQHS5vw==",
+  "dgSpecHash": "hrPtcTEjqa3wmj3wqS2HRGuo4cfumk45xVYC5SsEPYHDpe5trk2JUJLkfLt4bKq92ZSM//RHO5mVE4g0ZAr2Vg==",
   "success": true,
   "projectFilePath": "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPocInfra\\CosmosDbPocInfra.csproj",
   "expectedPackageFiles": [

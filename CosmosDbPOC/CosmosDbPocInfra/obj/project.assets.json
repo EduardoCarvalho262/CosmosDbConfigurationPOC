@@ -1837,6 +1837,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "CosmosDbPOC.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CosmosDbPOC.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CosmosDbPOC.Core.dll": {}
+        }
       }
     }
   },
@@ -6239,11 +6249,17 @@
       "type": "project",
       "path": "../CosmosDbPOC/CosmosDbPOC.csproj",
       "msbuildProject": "../CosmosDbPOC/CosmosDbPOC.csproj"
+    },
+    "CosmosDbPOC.Core/1.0.0": {
+      "type": "project",
+      "path": "../CosmosDbPOC.Core/CosmosDbPOC.Core.csproj",
+      "msbuildProject": "../CosmosDbPOC.Core/CosmosDbPOC.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "CosmosDbPOC >= 1.0.0",
+      "CosmosDbPOC.Core >= 1.0.0",
       "Microsoft.Azure.DocumentDB.Core >= 2.17.0"
     ]
   },
@@ -6274,6 +6290,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj": {
+              "projectPath": "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC.Core\\CosmosDbPOC.Core.csproj"
+            },
             "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC\\CosmosDbPOC.csproj": {
               "projectPath": "C:\\dev\\CosmosDbConfigurationPOC\\CosmosDbPOC\\CosmosDbPOC\\CosmosDbPOC.csproj"
             }
