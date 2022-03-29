@@ -9,7 +9,7 @@ using System.Net;
 
 namespace CosmosDbPocInfra.Repositorys
 {
-    public abstract class CosmosDbRepository<T> : IRepository   <T>, IDocumentCollectionContext<T> where T : Entity
+    public abstract class CosmosDbRepository<T> : IRepository<T>, IDocumentCollectionContext<T> where T : Entity
     {
 
         private readonly ICosmosDbClientFactory _cosmosDbClientFactory;

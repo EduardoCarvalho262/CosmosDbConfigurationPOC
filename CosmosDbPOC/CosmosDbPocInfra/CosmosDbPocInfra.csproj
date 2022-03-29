@@ -12,7 +12,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CosmosDbPOC.Core\CosmosDbPOC.Core.csproj" />
-    <ProjectReference Include="..\CosmosDbPOC\CosmosDbPOC.csproj" />
   </ItemGroup>
 
 </Project>

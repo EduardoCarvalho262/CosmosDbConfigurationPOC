@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CosmosDbPOC",
+    "\\CosmosDbPOC\\CosmosDbPOC",
+    "\\CosmosDbPOC\\CosmosDbPocInfra",
+    "\\CosmosDbPOC\\CosmosDbPocInfra\\Repositorys",
+    "\\CosmosDbPOC\\CosmosDbPOC\\Controllers"
   ],
+  "SelectedNode": "\\CosmosDbPOC\\CosmosDbPocInfra\\Repositorys\\ProdutoRepository.cs",
   "PreviewInSolutionExplorer": false
 }

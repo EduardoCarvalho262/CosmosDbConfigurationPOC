@@ -10,3 +10,15 @@ C:\dev\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\obj\Debug\net6.0\Co
 C:\dev\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\obj\Debug\net6.0\refint\CosmosDbPOC.Core.dll
 C:\dev\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\obj\Debug\net6.0\CosmosDbPOC.Core.pdb
 C:\dev\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\obj\Debug\net6.0\ref\CosmosDbPOC.Core.dll
+D:\dev\.NET\EduardoCarvalho262\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\bin\Debug\net6.0\CosmosDbPOC.Core.deps.json
+D:\dev\.NET\EduardoCarvalho262\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\bin\Debug\net6.0\CosmosDbPOC.Core.dll
+D:\dev\.NET\EduardoCarvalho262\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\bin\Debug\net6.0\CosmosDbPOC.Core.pdb
+D:\dev\.NET\EduardoCarvalho262\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\obj\Debug\net6.0\CosmosDbPOC.Core.csproj.AssemblyReference.cache
+D:\dev\.NET\EduardoCarvalho262\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\obj\Debug\net6.0\CosmosDbPOC.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\.NET\EduardoCarvalho262\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\obj\Debug\net6.0\CosmosDbPOC.Core.AssemblyInfoInputs.cache
+D:\dev\.NET\EduardoCarvalho262\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\obj\Debug\net6.0\CosmosDbPOC.Core.AssemblyInfo.cs
+D:\dev\.NET\EduardoCarvalho262\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\obj\Debug\net6.0\CosmosDbPOC.Core.csproj.CoreCompileInputs.cache
+D:\dev\.NET\EduardoCarvalho262\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\obj\Debug\net6.0\CosmosDbPOC.Core.dll
+D:\dev\.NET\EduardoCarvalho262\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\obj\Debug\net6.0\refint\CosmosDbPOC.Core.dll
+D:\dev\.NET\EduardoCarvalho262\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\obj\Debug\net6.0\CosmosDbPOC.Core.pdb
+D:\dev\.NET\EduardoCarvalho262\CosmosDbConfigurationPOC\CosmosDbPOC\CosmosDbPOC.Core\obj\Debug\net6.0\ref\CosmosDbPOC.Core.dll
